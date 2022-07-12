@@ -4,5 +4,5 @@
 
 ---
 
-[PATIKA DEV PROFIL LINK](https://app.patika.dev/cgtykarasu)
+[Patika.dev Profil Link](https://app.patika.dev/cgtykarasu)
  
